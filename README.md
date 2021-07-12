@@ -1,0 +1,2 @@
+# RMOGcoin
+RMOG Project
